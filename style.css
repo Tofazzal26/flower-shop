@@ -252,5 +252,44 @@ header{
 
 
 
-    
+.container .instagram-text {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.container .instagram-text h1{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.container .instagram-text p{
+    margin: 0 auto;
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+.container .instagram-img {
+    margin-top: 55px;
+}
+
+.instagram-img img{
+    padding: 0 5px;
+}
+
+
+
+    /* latest deal start */
+
+
+
+
 
