@@ -172,4 +172,85 @@ header{
 
 
 
+/* hot deal section start */
+
+
+.hot-deal {
+    background: rgba(229, 84, 115, 0.05);
+    height: 520px;
+    margin-top: 130px;
+}
+
+.hotdeal-divide {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hotdeal-content .hotdeal-text h1{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+
+
+
+.hotdeal-content .hotdeal-text p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.hotdeal-content .hotdeal-text h1 .important{
+    color: #E55473;
+}
+
+.hotdeal-content .hotdeal-text button{
+    padding: 20px 43px;
+    font-family: "Lato" sans-serif;
+    border-radius: 6px;
+    margin-top: 20px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background: #E55473;
+    border: none;
+    cursor: pointer;
+}
+
+.hotdeal-content .hotdeal-text {
+    text-align: center;
+    width: 70%;
+}
+
+
+
+.hotdeal-content {
+    width: 75%;
+    max-width: 1440px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: end;
+    padding: 100px 0;
+}
+
+.hotdeal-content .hotdeal-img{
+    max-height: 318px;
+}
+
+
+
+    /* instagram section start */
+
+
+
+
+
+    
 
