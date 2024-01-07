@@ -291,5 +291,78 @@ header{
 
 
 
+.deals-img {
+    width: 75%;
+    max-width: 1440px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: end;
+    background-image: url("./images/Rectangle\ 9.png");
+    height: 450px;
+    background-repeat: no-repeat;
+    margin-top: 130px;
+}
+
+
+
+.deals-img .latest-deals{
+    text-align: center;
+    padding: 120px;
+}
+
+
+.deals-img .latest-deals h1{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+
+.deals-img .latest-deals p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.deals-img .latest-deals input{
+    margin-top: 40px;
+    width: 700px;
+    height: 65px;
+    padding: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    outline: none;
+    font-weight: 400;
+    border: none;
+
+}
+
+
+.deals-img .latest-deals button{
+    padding: 20px 43px;
+    font-family: "Lato" sans-serif;
+    border-radius: 6px;
+    margin-top: 20px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background: #E55473;
+    border: none;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+
+
+
+/* footer section start */
+
 
 
