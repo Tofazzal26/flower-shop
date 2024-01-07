@@ -133,3 +133,43 @@ header{
     margin-top: 16px;
 }
 
+
+    /* our services section start */
+
+.container .service {
+    width: 100%;
+    height: 320px;
+    border-radius: 3px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+
+.services-divided {
+    display: flex;
+    align-items: center;
+}
+
+
+.service .service-content{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.service {
+    margin-top: 130px;
+}
+
+
+.service .service-content p{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-top: 25px;
+}
+
+
+
+
